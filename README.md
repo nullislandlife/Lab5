@@ -1,4 +1,5 @@
-# Land-use & Land-cover Change Detection
+# <B>Land-use & Land-cover Change Detection</B>
+
 
 The importance of updated and consistent land use cartography is widely recognized. Land use cover changes (LUCC) are one of the most evident and fastest processes changing both the characteristics of land surface and the potential of natural ecosystems for provision of environmental services (Harold et al., 2009). Quality data about Land use cover (LUC) and LUCC are crucial to understanding the current and future dynamics of deforestation and its causes, including wildfires, urbanization, cropping, loss of biodiversity, and the influences on climate change (Harold et al., 2009; Radoux et al.,2014). This paper discusses (LUC) change detection (CD), the methods used to process spatial data, such as object detection, instance segmentation, and artificial neural networks, and how they apply to change detection.
 
